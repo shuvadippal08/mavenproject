@@ -1,4 +1,3 @@
-package demo;
 
 /**
  * Hello world!
